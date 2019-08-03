@@ -2,7 +2,7 @@
     <a href="" rel="noopener">
  <img height= 300 width = 300 src="https://user-images.githubusercontent.com/32112516/62415179-1dadab00-b615-11e9-8152-e1e44fee4002.png" alt="Project logo"></a>
 
-<h3 align="center">Box Chaser</h3>
+<h3 align="center">Snake Game</h3>
 
 <div align="center">
 
